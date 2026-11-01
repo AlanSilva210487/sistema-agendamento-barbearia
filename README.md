@@ -46,13 +46,3 @@ g++ barbearia_agendamento.cpp -o barbearia
 
 # 4. Executar a aplicação
 ./barbearia
-
-<img width="973" height="491" alt="bartearia01" src="https://github.com/user-attachments/assets/20ab42c8-7060-41cb-865c-6ab8f3ff661d" />
-
-<img width="966" height="490" alt="barbearia02" src="https://github.com/user-attachments/assets/96d8cd74-fd22-4368-8c00-3c742fb75f03" />
-
-<img width="963" height="498" alt="barbearia03" src="https://github.com/user-attachments/assets/3dd19d60-fb14-40c1-a564-d58767be0ca9" />
-
-<img width="875" height="464" alt="barbearia04" src="https://github.com/user-attachments/assets/bb717323-2bee-4b77-8960-9bab8f97a4b2" />
-
-<img width="964" height="494" alt="barbearia05" src="https://github.com/user-attachments/assets/8eb10c05-10e1-4c34-95a8-076ef2cc3990" />
